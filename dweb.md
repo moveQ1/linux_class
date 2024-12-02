@@ -4,4 +4,4 @@
 I love **Linux Class**
 I also love _Web Class_
 I rather love **_Blockchain Class_**
-### <font color="red"> Final Exam: December 11th, 2024</font>
+### <font color="red"> End of 2024 year </font>
